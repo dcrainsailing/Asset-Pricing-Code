@@ -1,0 +1,3 @@
+﻿  bond.cpp
+c:\users\dcrai\desktop\study\mf803\hw4\bond\bond\bond.cpp(108): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Bond.vcxproj -> C:\Users\DCrai\Desktop\study\MF803\hw4\Bond\Debug\Bond.exe
